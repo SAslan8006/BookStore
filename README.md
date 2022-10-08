@@ -27,7 +27,7 @@
 6. Implementations of JWT; Transaction, Cache, Validation and Performance aspects have been implemented.
 7. Fluent Validation support for Validation, Autofac support for IoC added.
 8. The project includes CRUD operations added .
-9. Nortwind is carried out according to certain business rules.
+9. BookStore is carried out according to certain business rules.
 
 
 ### :floppy_disk: **Application Pictures**
